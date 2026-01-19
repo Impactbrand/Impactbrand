@@ -8,7 +8,7 @@ I build secure and engaging web applications. My work combines thoughtful design
 
 - **Languages:** TypeScript, JavaScript, HTML & CSS
 - **Frameworks & Libraries:** Next.js, React, Tailwind CSS, ShadCN UI
-- **Backend & Databases:** Firebase (Authentication, Firestore, Storage)
+- **Backend & Databases:** Firebase (Authentication, Firestore, Storage), Supabase, MySQL
 - **Tools:** Git, GitHub Actions, VS Code
 
 ## 🚀 Featured Project
@@ -29,4 +29,4 @@ SelliblyHQ is a secure marketplace for buying and selling digital assets and ser
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Impactbrand&layout=compact)
 ## 🤝 Get in touch
 
-I'm open to collaboration and new opportunities. Feel free to reach out via [GitHub Issues](https://github.com/Impactbrand/studio/issues) or connect with me on social media.
+I'm open to collaboration and new opportunities. Feel free to reach out via [GitHub Issues](https://github.com/Impactbrand/studio/issues) or connect with me on [X](https://x.com/i_am_impact070) and [Facebook](https://web.facebook.com/Impact.Robert.Emmanuel).
